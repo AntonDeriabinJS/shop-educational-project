@@ -1,0 +1,84 @@
+
+// ---------- Colors ----------
+$color-white:       #ffffff;
+$color-black:       #000000;
+$color-gray-dark:   #888888;
+$color-gray-medium: #c4c4c4;
+$color-gray-light:  rgb(196, 196, 196);
+$color-text-muted:  rgb(136, 136, 136);
+$color-bg-footer:   rgb(247, 246, 246);
+$color-bg-cart:     #f7f6f6;
+$color-border-cart: #cacdd8;
+$color-btn-bg:      rgba(222, 215, 215, 0.41);
+
+// ---------- Typography ----------
+$font-family-base:  "Montserrat", sans-serif;
+$font-size-xs:      12px;
+$font-size-sm:      14px;
+$font-size-base:    16px;
+$font-size-md:      24px;
+$font-size-lg:      34px;
+$font-size-xl:      48px;
+$font-size-xxl:     64px;
+
+$font-weight-normal:   400;
+$font-weight-medium:   500;
+$font-weight-semibold: 600;
+
+$line-height-xs:    15px;
+$line-height-sm:    17px;
+$line-height-base:  20px;
+$line-height-md:    29px;
+$line-height-lg:    32px;
+$line-height-xl:    41px;
+$line-height-xxl:   59px;
+$line-height-huge:  70px;
+
+// ---------- Spacing ----------
+$gap-xs:    8px;
+$gap-sm:    14px;
+$gap-base:   16px;
+$gap-md:    32px;
+$gap-lg:    56px;
+$gap-xl:    64px;
+$gap-xxl:   129px;
+
+$padding-xs:   10px;
+$padding-sm:   17px;
+$padding-base: 23px;
+$padding-md:   32px;
+$padding-lg:   64px;
+
+$margin-xs:   16px;
+$margin-sm:   25px;
+$margin-base: 32px;
+$margin-md:   64px;
+$margin-lg:   120px;
+
+// ---------- Sizes ----------
+$radius-sm:   8px;
+$radius-base: 20px;
+
+$width-input:     288px;
+$width-select:    182px;
+$width-select-2:  227px;
+$width-form:      260px;
+$width-product:   378px;
+$width-content:   792px;
+$width-center:    1200px;
+
+$height-input:      41px;
+$height-select:     40px;
+$height-header:     76px;
+$height-product:    250px;
+$height-for-item:   415px;
+$height-for-big:    268px;
+$height-top:        735px;
+$height-top-small:  400px;
+$height-cart-form:  556px;
+
+// ---------- Breakpoints ----------
+$bp-tablet:    1024px;
+$bp-mobile:     767px;
+$bp-mobile-lg:  833px;
+$bp-mobile-sm:  768px;
